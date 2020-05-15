@@ -1,0 +1,2 @@
+# SpringCloudConfigrepository
+存储springcloud配置服务器管理的服务配置
